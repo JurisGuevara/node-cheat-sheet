@@ -1,5 +1,5 @@
 /**
- * create folder if it does not exist yet
+ * delete folder if it exists
  */
 
 const fs = require('fs')
